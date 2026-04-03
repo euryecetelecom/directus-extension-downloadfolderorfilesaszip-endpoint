@@ -29,7 +29,7 @@
 	"devDependencies": {
 		"@directus/extensions-sdk": "^17.1.1",
 		"@types/archiver": "^7.0.0",
-		"@types/node": "^24.5.2",
+		"@types/node": "^22.2.2",
 		"typescript": "^5.9.2"
 	},
 	"repository": {
