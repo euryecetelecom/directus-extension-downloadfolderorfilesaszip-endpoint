@@ -2,9 +2,9 @@
 	"name": "directus-extension-downloadfolderorfilesaszip-endpoint",
 	"description": "Directus custom endpoint extension allowing to download and save folder content or multiple files as zip.",
 	"icon": "extension",
+	"version": "1.0.1",
 	"license": "MIT",
-	"version": "1.0.0",
-    "author": "Euryece Telecom",
+	"author": "Euryece Telecom",
 	"keywords": [
 		"directus",
 		"directus-extension",
@@ -27,8 +27,8 @@
 		"validate": "directus-extension validate"
 	},
 	"devDependencies": {
-		"@directus/extensions-sdk": "16.0.2",
-		"@types/archiver": "^6.0.3",
+		"@directus/extensions-sdk": "^17.1.1",
+		"@types/archiver": "^7.0.0",
 		"@types/node": "^24.5.2",
 		"typescript": "^5.9.2"
 	},
